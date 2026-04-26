@@ -1,0 +1,6 @@
+{
+  "name": "enterprise-app",
+  "env": {
+    "NODE_ENV": "production"
+  }
+}
